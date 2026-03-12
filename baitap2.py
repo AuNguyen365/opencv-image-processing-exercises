@@ -32,4 +32,3 @@ cv2.imwrite("binary.jpg", binary)
 # in pixel
 print("Pixel trước:", gray[100,100])
 print("Pixel sau:", gray_dark[100,100])
-print("test git")
